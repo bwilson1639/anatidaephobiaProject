@@ -10,3 +10,5 @@ Here at Anatidaephobia our mission is to help people who suffer from Anatidaepho
 ![](/images/yachtgun.jpg "The Duck Destroyer 9000")
 
 In 2019 it was estimaded that there 49.5 million ducks in North America alone. We find this number to be appalling. Imagine you had 99 million eyes potentially staring you down. This is the threat billions face alone, but with your support we can face together.
+
+![](/images/duck_poster_4.png)
