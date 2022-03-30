@@ -15,4 +15,8 @@ Don't hear from just us, here are some people who support our cause:
 
 !["As long as the beavers are fine I don't care what happens to the ducks. Thank you anatidaephobiaDotOrg"](/images/glynnishood.jpg "Glynnis Hood, PhD")
 
-![](/images/9mugjjlf_400x400.png)
+!["While climate change is probably the larger problem at hand, it is good to see people interested in interacting with our planet Earth. Ducks though are very clearly not of this world, and eradicating them could possibly decrease global emissions. Win win."](/images/9mugjjlf_400x400.png "Greg King, PhD")
+
+!["Honestly this is a topic that more people should be discussing. I can't think when I think about how the ducks are watching me and they are thinking about how I'm thinking. I'd get rid of them myself but then how would I teach Philosophy. Thank you anatidaephobiaDotOrg for letting me get back to my studies, and maybe one day grading those papers."](/images/315ff44855809d54a726e8c586da6618910c4812e16ad3eacc2580fe3adba825.jpg "Janet Wesselius, PhD")
+
+!["I don't feel safe letting my children be outside knowing that these birds could be watching them. Thank you anatidaephobia for making Alberta a safer place"](/images/melanie-methot.jpg "Mélanie Méthot, PhD")
