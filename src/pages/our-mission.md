@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Our Mission
-permalink: /OurMission/index.HTML
+permalink: /OurMission/index.html
 metaTitle: Our Mission
 metaDesc: Our Mission Statement
 ---
