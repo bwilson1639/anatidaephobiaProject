@@ -8,6 +8,6 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Do you ever 
 
-![](/images/pexels-aidan-jarrett-660266.jpg "The Enemy")
+
+![](/images/pexels-shay-wood-574120.jpg "The Enemy")
