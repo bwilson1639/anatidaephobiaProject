@@ -38,3 +38,7 @@ Don't hear from just us, here are some people who support our cause:
 ![](/images/craig-wentland-web-preview.jpg "Craig Wentland, M.Div.")
 
 "I first started suffering from anatidaephobia after my trip to Italy. I thought I could escape the feathered menace by escaping to Europe, but even there I didn't feel safe. Thanks to anatidaephobiaDotOrg I can finally stop worrying and make gelato. It is so freeing to know that soon there will be nothing standing between me and serving the Augustana Student body." - Craig Wentland, M.Div.
+
+![](/images/srein_auto_x2.jpg "Sandra Rein, PhD")
+
+"To be perfectly honest I just teach the Cuba trip because there are less ducks in Cuba." - Sandra Rein, PhD
