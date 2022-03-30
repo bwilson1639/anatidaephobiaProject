@@ -9,7 +9,7 @@ Don't hear from just us, here are some people who support our cause:
 
 ![](/images/dean-demetres-tryphonopoulos-web.png "Demetres P. Tryphonopoulos")
 
-
+"As the Dean for Augustana, I'm overjoyed to hear that more peopel are bringing light to this cause. Student's shouldn't have to fear that there is birds of ill intent that could be watching them. I can barely sleep knowing that they are out there. Thank you AnatidaephobiaDotOrg for supporting both myself, our faculty, and most importantly our students." -Demetres P. Tryphonopoulos, Dean of Augustana
 
 ![](/images/james-kariuki-award-main.jpg "James Kariuki, Associate Dean, Teaching")
 
