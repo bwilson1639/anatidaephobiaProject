@@ -34,3 +34,5 @@ Don't hear from just us, here are some people who support our cause:
 !["I don't feel safe letting my children be outside knowing that these birds could be watching them. Thank you anatidaephobia for making Alberta a safer place"](/images/melanie-methot.jpg "Mélanie Méthot, PhD")
 
 "I don't feel safe letting my children be outside knowing that these birds could be watching them. Thank you anatidaephobia for making Alberta a safer place" -Mélanie Méthot, PhD
+
+![]()
