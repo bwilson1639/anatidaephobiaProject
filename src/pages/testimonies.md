@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-title: Testimonies
-permalink: /Testimonies/index.html
-metaTitle: Testimonies
+title: Testimonials
+permalink: /Testimonials/index.html
+metaTitle: Testimonials
 metaDesc: It's not just us, here are some people who agree with our train of thought
 ---
 Don't hear from just us, here are some people who support our cause:
