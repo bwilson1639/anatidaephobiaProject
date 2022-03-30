@@ -35,4 +35,6 @@ Don't hear from just us, here are some people who support our cause:
 
 "I don't feel safe letting my children be outside knowing that these birds could be watching them. Thank you anatidaephobia for making Alberta a safer place" -Mélanie Méthot, PhD
 
-![]()
+![](/images/craig-wentland-web-preview.jpg "Craig Wentland, M.Div.")
+
+"I first started suffering from anatidaephobia after my trip to Italy. I thought I could escape the feathered menace by escaping to Europe, but even there I didn't feel safe. Thanks to anatidaephobiaDotOrg I can finally stop worrying and make gelato. It is so freeing to know that soon there will be nothing standing between me and serving the Augustana Student body." - Craig Wentland, M.Div.
