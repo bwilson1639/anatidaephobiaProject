@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Anatidephobia
-metaTitle: ""
+metaTitle: AnatidephobiaDotOrg
 metaDesc: The ducks are out there. We are here to fix that. Please consider
   donating to the cause
 postsHeading: Latest posts
