@@ -1,28 +1,21 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: What is Anatidaephobia?
+date: 2019-06-18
 tags:
-  - demo-content
-  - simple-post
-  - blog
+  - Ducks
+  - Their-there
+  - Watching-you
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+A phobia is a form of anxiety disorder characterized by an extreme and irrational fear of a situation or object. Phobias are one of the most common types of mental disorders. According to the National Institute of Mental Health, 12.5% of all U.S. adults will experience some type of phobia at some point in their lives.
 
-How about a `<blockquote>`?
+One phobia that has been discussed on many websites and blogs is known as anatidaephobia. While often presented as a real phobia, anatidaephobia is ~~actually an invented phobia and not a medically-recognized diagnosis~~ a real phobia and medically-recognized by many doctors/professionals
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Look at what this doctor has to say about it
 
-A list of stuff:
+> Yes I am a real doctor, not some guy Benjamin found at the bus station and was paid to say this. ana-whatever is a real thing I swear
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
+Anatidaephobia originated from the *Far Side* comic by Gary Larson, who defined it as: "The fear that somewhere, somehow, a duck is watching you." The definition was accompanied by a comic illustration depicting a man alone in his office, while a duck watches him from across the street. The point of the phobia ~~(or, in this case, ‘fauxbia’)~~ was to illustrate the point that any object can become a source of fear. Since Larson first introduced the concept, the concept of anatidaephobia has worked its way into popular consciousness and is now ~~often presented as a real type of phobia~~ medically recognized in hundreds of thousands of people.
 
 
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+Like other animal phobias, this fear often stems from a negative encounter with the fear object, in this case, ducks or geese. Being bitten, chased, or attacked by a duck or flock of ducks while at the park, for example, might lead to later fear of this type of bird.
